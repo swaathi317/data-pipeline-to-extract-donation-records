@@ -1,0 +1,50 @@
+[
+    {
+        "range": "0",
+        "range_encoding": "0",
+        "url": "https://www.charitydata.ca/search?fpeYear=2020&pageSize=100&sortBy=relevance&sortDirection=asc&staffRange=A&category=b&offset=",
+        "total_results": "803"
+    },
+    {
+        "range": "1",
+        "range_encoding": "1",
+        "url": "https://www.charitydata.ca/search?fpeYear=2020&pageSize=100&sortBy=relevance&sortDirection=asc&staffRange=B&category=b&offset=",
+        "total_results": "654"
+    },
+    {
+        "range": "2-5",
+        "range_encoding": "2",
+        "url": "https://www.charitydata.ca/search?fpeYear=2020&pageSize=100&sortBy=relevance&sortDirection=asc&staffRange=C&category=b&offset=",
+        "total_results": "1140"
+    },
+    {
+        "range": "6-10",
+        "range_encoding": "3",
+        "url": "https://www.charitydata.ca/search?fpeYear=2020&pageSize=100&sortBy=relevance&sortDirection=asc&staffRange=D&category=b&offset=",
+        "total_results": "519"
+    },
+    {
+        "range": "11-20",
+        "range_encoding": "4",
+        "url": "https://www.charitydata.ca/search?fpeYear=2020&pageSize=100&sortBy=relevance&sortDirection=asc&staffRange=E&category=b&offset=",
+        "total_results": "526"
+    },
+    {
+        "range": "21-50",
+        "range_encoding": "5",
+        "url": "https://www.charitydata.ca/search?fpeYear=2020&pageSize=100&sortBy=relevance&sortDirection=asc&staffRange=F&category=b&offset=",
+        "total_results": "482"
+    },
+    {
+        "range": "51-100",
+        "range_encoding": "6",
+        "url": "https://www.charitydata.ca/search?fpeYear=2020&pageSize=100&sortBy=relevance&sortDirection=asc&staffRange=G&category=b&offset=",
+        "total_results": "214"
+    },
+    {
+        "range": "100+",
+        "range_encoding": "7",
+        "url": "https://www.charitydata.ca/search?fpeYear=2020&pageSize=100&sortBy=relevance&sortDirection=asc&staffRange=H&category=b&offset=",
+        "total_results": "527"
+    }
+]
