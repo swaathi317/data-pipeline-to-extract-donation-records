@@ -13,4 +13,6 @@ Currently, the website has donation data for the years: 2018, 2019, 2020, 2021. 
 - BeautifulSoup: for static data on the website
 - Selenium: for dynamically generated data on the website
 - Pandas: for data cleaning and transformation
-- Automation with bash
+
+![Web-scrapping pipeline](Web-scrapping pipeline.png)
+
