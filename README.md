@@ -14,5 +14,5 @@ Currently, the website has donation data for the years: 2018, 2019, 2020, 2021. 
 - Selenium: for dynamically generated data on the website
 - Pandas: for data cleaning and transformation
 
-![Web-scrapping pipeline](Web-scrapping pipeline.png)
+![Web-scrapping pipeline](https://raw.githubusercontent.com/swaathi317/data-pipeline-to-extract-donation-records/main/Web-scrapping%20pipeline.png)
 
